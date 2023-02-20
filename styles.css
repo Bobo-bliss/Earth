@@ -45,3 +45,11 @@
 
 /* Round Page */
 
+.round-img > div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.round-img > div > div > img {
+    width: 30rem;
+}
